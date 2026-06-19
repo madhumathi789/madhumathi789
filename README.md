@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer (MERN) · GenAI Integration · Hyderabad, India</h3>
 
 <p align="center">
-  <a href="https://alampallymadhumathi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View_Live-00e5ff?style=for-the-badge" /></a>
   <a href="mailto:alampallymadhumathi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-b06ef3?style=for-the-badge" /></a>
   <a href="https://www.ijert.org/research/stree-raksha-an-intelligent-women-safety-system-using-smart-technologies-IJERTV15IS043521.pdf"><img src="https://img.shields.io/badge/Published-IJERT_2026-00f5a0?style=for-the-badge" /></a>
 </p>
