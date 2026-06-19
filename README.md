@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Madhumathi 👋</h1>
 <h3 align="center">Full Stack Developer (MERN) · GenAI Integration · Hyderabad, India</h3>
 
-<p align="center">
-  <a href="mailto:alampallymadhumathi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-b06ef3?style=for-the-badge" /></a>
-  <a href="https://www.ijert.org/research/stree-raksha-an-intelligent-women-safety-system-using-smart-technologies-IJERTV15IS043521.pdf"><img src="https://img.shields.io/badge/Published-IJERT_2026-00f5a0?style=for-the-badge" /></a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -46,9 +41,8 @@
 
 ### 📫 Let's Connect
 
-<p>
-  <a href="mailto:alampallymadhumathi@gmail.com">📧 Email</a> ·
-  📞 +91-9908630614
+<p align="center">
+  <a href="mailto:alampallymadhumathi@gmail.com">📧 alampallymadhumathi@gmail.com</a> &nbsp;·&nbsp; 📞 +91-9908630614
 </p>
 
 <p align="center"><i>Actively looking for Full Stack Developer internship / entry-level roles in Hyderabad — immediate joiner.</i></p>
