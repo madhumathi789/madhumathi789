@@ -48,7 +48,6 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="https://alampallymadhumathi.netlify.app/">🌐 Portfolio</a> ·
   <a href="mailto:alampallymadhumathi@gmail.com">📧 Email</a> ·
   📞 +91-9908630614
 </p>
